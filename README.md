@@ -11,7 +11,7 @@
 <p>
   <img src="https://img.shields.io/badge/📍_Thailand-0a0a0f?style=flat-square&labelColor=0a0a0f&color=7df9c2"/>
   <img src="https://img.shields.io/badge/💼_Open_to_Work-0a0a0f?style=flat-square&labelColor=0a0a0f&color=5b8fff"/>
-  <img src="https://img.shields.io/badge/🌱_Learning-Next.js_•_System_Design-0a0a0f?style=flat-square&labelColor=0a0a0f&color=e8b86d"/>
+  <img src="https://img.shields.io/badge/🌱_Learning-System_Design_•_Architecture-0a0a0f?style=flat-square&labelColor=0a0a0f&color=e8b86d"/>
 </p>
 
 <br/>
@@ -20,14 +20,14 @@
 
 ---
 
-## `> who am i`
+## `> whoami`
 
 ```ts
 const mai = {
   role     : "Full Stack Developer",
   location : "Thailand 🇹🇭",
-  focus    : ["React", "Vue.js", "TypeScript", "PHP", "MySQL", "PostgreSQL"],
-  learning : ["Next.js", "System Design", "Scalable Architecture"],
+  focus    : ["React", "Next.js", "Vue.js", "TypeScript", "PHP", "MySQL", "PostgreSQL"],
+  learning : ["System Design", "Scalable Architecture"],
   goal     : "Build real-world products that matter",
   motto    : "⭐ Always improving. Always building.",
 };
@@ -40,6 +40,7 @@ const mai = {
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,9 +54,8 @@ const mai = {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Learning**
+**Tools**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
