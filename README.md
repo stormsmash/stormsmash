@@ -110,7 +110,7 @@ const mai = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=stormsmash&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&margin-h=6&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=stormsmash&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=4" />
 
 </div>
 
@@ -120,11 +120,7 @@ const mai = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stormsmash/stormsmash/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stormsmash/stormsmash/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
 </div>
 
