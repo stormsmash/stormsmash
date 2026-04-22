@@ -26,7 +26,7 @@
 const mai = {
   role     : "Full Stack Developer",
   location : "Thailand 🇹🇭",
-  focus    : ["React", "Vue.js", "TypeScript", "PHP", "MySQL"],
+  focus    : ["React", "Vue.js", "TypeScript", "PHP", "MySQL", "PostgreSQL"],
   learning : ["Next.js", "System Design", "Scalable Architecture"],
   goal     : "Build real-world products that matter",
   motto    : "⭐ Always improving. Always building.",
@@ -51,6 +51,7 @@ const mai = {
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Learning**
 
