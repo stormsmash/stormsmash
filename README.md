@@ -106,11 +106,14 @@ const mai = {
 
 ---
 
-### 🏆 GitHub Trophies
+### 🎯 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=stormsmash&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=4" />
+![Commits](https://img.shields.io/badge/Total%20Commits-Since%202022-7df9c2?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/Public%20Repos-5%2B-5b8fff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/Full%20Stack-Frontend%20%2B%20Backend-e8b86d?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=0d1117)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-7df9c2?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)
 
 </div>
 
