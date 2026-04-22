@@ -20,7 +20,7 @@
 
 ---
 
-## `> whoami`
+## `> who am i`
 
 ```ts
 const mai = {
